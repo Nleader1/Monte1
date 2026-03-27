@@ -4,3 +4,4 @@ numpy
 plotly
 tinydb
 plotly
+plotly.graph_objects
