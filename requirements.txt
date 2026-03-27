@@ -1,1 +1,5 @@
-
+sreamlit
+pandas
+numpy
+plotly
+tinydb
